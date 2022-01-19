@@ -1,1 +1,1 @@
-# This repo contains the assigments given by iNeuron
+# This repo has everything related to my courses/practices with iNeuron
