@@ -1,0 +1,44 @@
+INFO:root:Logging started
+WARNING:root:This is a warning log
+ERROR:root:This is an error log
+INFO:root:This is a info log
+WARNING:root:This is a warning log
+ERROR:root:This is a error log
+CRITICAL:root:This is a critical log
+INFO:root:Logging started
+WARNING:root:This is a warning log
+ERROR:root:This is an error log
+INFO:root:This is a info log
+WARNING:root:This is a warning log
+ERROR:root:This is a error log
+CRITICAL:root:This is a critical log
+INFO:root:This is a info log
+WARNING:root:This is a warning log
+ERROR:root:This is a error log
+CRITICAL:root:This is a critical log
+INFO:root:Logging started
+WARNING:root:This is a warning log
+ERROR:root:This is an error log
+INFO:root:This is a info log
+WARNING:root:This is a warning log
+ERROR:root:This is a error log
+CRITICAL:root:This is a critical log
+INFO:root:This is a info log
+WARNING:root:This is a warning log
+ERROR:root:This is a error log
+CRITICAL:root:This is a critical log
+INFO:root:Logging started
+WARNING:root:This is a warning log
+ERROR:root:This is an error log
+INFO:root:This is a info log
+WARNING:root:This is a warning log
+ERROR:root:This is a error log
+CRITICAL:root:This is a critical log
+INFO:root:This is a info log
+WARNING:root:This is a warning log
+ERROR:root:This is a error log
+CRITICAL:root:This is a critical log
+INFO:root:This is a info log
+WARNING:root:This is a warning log
+ERROR:root:This is a error log
+CRITICAL:root:This is a critical log

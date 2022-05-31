@@ -1,0 +1,5 @@
+2022-01-28 17:27:22,924 [DEBUG] : This is a debug log
+2022-01-28 17:27:22,925 [INFO] : This is a info log
+2022-01-28 17:27:22,925 [WARNING] : This is a warning log
+2022-01-28 17:27:22,925 [ERROR] : This is a error log
+2022-01-28 17:27:22,926 [CRITICAL] : This is a critical log
